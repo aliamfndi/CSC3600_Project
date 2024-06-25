@@ -1,0 +1,34 @@
+Number,Drink,Hot,Cold,Ice blended,Coffee,Milk,Nut,Matcha
+1,Hot matcha latte,1,0,0,1,1,0,1
+2,Ice matcha latte,0,1,0,1,1,0,1
+3,Ice blended matcha latte,0,0,1,1,1,0,1
+4,Ice strawberry matcha,0,1,0,0,1,0,1
+5,Ice blended trawberry matcha,0,0,1,0,1,0,1
+6,Ice matcha,0,1,0,0,1,0,1
+7,Ice blended matcha,0,0,1,0,1,0,1
+8,Hot flat white,1,0,0,1,1,0,0
+9,Ice flat white,0,1,0,1,1,0,0
+10,Hot mocha ,1,0,0,1,1,0,0
+11,Ice mocha ,0,1,0,1,1,0,0
+12,Ice blended mocha ,0,0,1,1,1,0,0
+13,Hot americano,1,0,0,1,0,0,0
+14,Ice americano,0,1,0,1,0,0,0
+15,Hot cappuccino,1,0,0,1,1,0,0
+16,Ice cappuccino,0,1,0,1,1,0,0
+17,Ice blended cappuccino,0,0,1,1,1,0,0
+18,Hot latte,1,0,0,1,1,0,0
+19,Ice latte,0,1,0,1,1,0,0
+20,Ice blended latte,0,0,1,1,1,0,0
+21,Hot caramel macchiato,1,0,0,1,1,0,0
+22,Ice caramel macchiato,0,1,0,1,1,0,0
+23,Ice blended caramel macchiato,0,0,1,1,1,0,0
+24,Ice chocolate,0,1,0,0,1,0,0
+25,Ice blended chocolate,0,0,1,0,1,0,0
+26,Ice blended strawberry ,0,0,1,0,1,0,0
+27,Ice blended vanilla ,0,0,1,0,1,0,0
+28,Ice grape juice,0,1,0,0,0,0,0
+29,Ice blended grape juice,0,0,1,0,0,0,0
+30,Ice passionfruit juice,0,1,0,0,0,0,0
+31,Ice blended passionfruit juice,0,0,1,0,0,0,0
+32,Ice orange juice,0,1,0,0,0,0,0
+33,Ice blended orange juice,0,0,1,0,0,0,0
